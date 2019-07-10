@@ -1,14 +1,39 @@
-const isInRangeOfOneToThousands = require('../main');
+()=>{
 
-it ('should return true when add startNumber and endNumber in a range of 1 to 1000', () => {
-    expect(isInRangeOfOneToThousands(1, 2)).toBe(true);
-});
+}
+(items,itemsvalues)=>{
+    const items=['0001', '0003', '0005', '0003'];
+    const itemvalues=()=>itemvalues;
+
+    return num*prince;
+}
+()=>{
+    const itemvalues=[
+                          {"id": "0001", "name" : "Coca Cola", "price": 3},
+                          {"id": "0002", "name" : "Diet Coke", "price": 4},
+                          {"id": "0003", "name" : "Pepsi-Cola", "price": 5},
+                          {"id": "0004", "name" : "Mountain Dew", "price": 6},
+                          {"id": "0005", "name" : "Dr Pepper", "price": 7},
+                          {"id": "0006", "name" : "Sprite", "price": 8},
+                          {"id": "0007", "name" : "Diet Pepsi", "price": 9},
+                          {"id": "0008", "name" : "Diet Mountain Dew", "price": 10},
+                          {"id": "0009", "name" : "Diet Dr Pepper", "price": 11},
+                          {"id": "0010", "name" : "Fanta", "price": 12}
+                      ]
+               return itemvalues;
+}
+(renditems,items)=>{
 
 
-it ('should return true when add startNumber and endNumber  1 to 1000', () => {
-    expect(isInRangeOfOneToThousands(1001,1002)).toBe(false);
-});
+}
 
-it('should return string when add startNumber and endNumber that result like x*y‘,()=>{
-   expect(createMuiltplyEquation(1,2)).toBe(2);
-}):
+(items)=>{
+
+}
+(items)=>{
+
+}
+
+
+
+module.exports = isInR
